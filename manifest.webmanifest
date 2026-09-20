@@ -1,0 +1,15 @@
+{
+  "name": "אבא והדר באמסטרדם",
+  "short_name": "אמסטרדם 💜",
+  "description": "הטיול של אבא והדר באמסטרדם · דצמבר 2026",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#ec5d9a",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
